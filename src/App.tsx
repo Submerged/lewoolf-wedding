@@ -33,7 +33,7 @@ export const App = () => (
             </Center>
             <Container id="invite" maxWidth={1300}>
                 <Box width='100%' border='30px solid #FFF'>
-                    <Image src={hero} />
+                    {/*<Image src={hero} />*/}
                 </Box>
             </Container>
             <Schedule />

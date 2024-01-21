@@ -22,7 +22,7 @@ const renderer = ({ total, days, hours, minutes } : CountdownProps) => {
         return <Text as='h3'>TODAY!</Text>;
     }
 };
-const weddingDate = new Date('2023-10-06T15:00:00')
+const weddingDate = new Date('2024-08-03T15:00:00')
     .toLocaleString("en-US", {timeZone: "America/St_Johns"});
 
 export const WeddingCountdown = () => {
@@ -30,7 +30,7 @@ export const WeddingCountdown = () => {
         <Container id="countdown" maxWidth='100vw'>
             <Center sx={{textAlign: 'center'}}>
                 <Box width='100%' bg='#EFFEFEF' pb={[20,20,50]} pt={[5]}>
-                    <Text as='h1'> October 6, 2023 </Text>
+                    <Text as='h1'> Aug 3, 2024 </Text>
                     <Countdown date={weddingDate} renderer={renderer}/>
                 </Box>
             </Center>

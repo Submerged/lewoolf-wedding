@@ -10,7 +10,7 @@ export const Invite = () => {
                         <Image maxHeight={10} objectFit='cover' src={euc} />
                     </Center>
                     <Stack spacing={10} mb={50} mt={10}>
-                        <Text as='h1'>Charlotte & Dylan</Text>
+                        <Text as='h1'>Bronwyn & Derek</Text>
                         <Text as='p'>invite you to join them</Text>
                         <Text as='p'>in their wedding celebrations</Text>
                         <Text as='p'>Friday |  Oct 6 | 2023</Text>
