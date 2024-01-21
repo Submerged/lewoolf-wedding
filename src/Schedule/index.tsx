@@ -16,11 +16,11 @@ export const Schedule = () => {
                             - break -
                             <br/>
                             <br/>
-                            6:00 pm - Marble Mountain Knotty Pine Lounge - Dinner reception
+                            5:30 pm - Marble Mountain - Knotty Pine Lounge - Reception
                         </Center>
                     </Text>
                 </Box>
             </Center>
         </Container>
-    );
+    )
 }

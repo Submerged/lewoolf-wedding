@@ -1,6 +1,7 @@
 import {Box, Container, Center, Stack, Text, Image} from "@chakra-ui/react";
 import * as React from "react";
 import euc from "../euc2.png";
+import { FaBold } from "react-icons/fa";
 export const Invite = () => {
     return <Box>
         <Container id="invite" maxWidth={1300} >
@@ -10,7 +11,8 @@ export const Invite = () => {
                         <Image maxHeight={10} objectFit='cover' src={euc} />
                     </Center>
                     <Stack spacing={10} mb={50} mt={10}>
-                        <Text as='h1'>Bronwyn & Derek</Text>
+                        <Text as='h1'>Save the Date</Text>
+                        <Text as='p'>Bronwyn & Derek</Text>
                         <Text as='p'>together with their families</Text>
                         <Text as='p'>are preparing for their wedding celebrations</Text>
                         <Text as='p'>Saturday |  Aug 3 | 2024</Text>

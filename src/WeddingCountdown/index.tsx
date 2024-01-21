@@ -14,7 +14,7 @@ const renderer = ({ total, days, hours, minutes } : CountdownProps) => {
         // Render a countdown
         return (
             <Text as='h3'>
-                {days} days, {hours} hours, {minutes} minutes until the big day! 
+                {days} days, {hours} hours, {minutes} minutes until the wedding! 
             </Text>
         );
     } else {
