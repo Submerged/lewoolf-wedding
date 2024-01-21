@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.js": "/static/js/main.a7312ac9.js",
+    "main.js": "/static/js/main.a1357ab7.js",
     "static/js/787.1f03ef2a.chunk.js": "/static/js/787.1f03ef2a.chunk.js",
-    "static/media/euc2.png": "/static/media/euc2.a43f01e8279beb80c5a6.png",
+    "static/media/bdengagementmountainphoto.png": "/static/media/bdengagementmountainphoto.26d6ebe3ecf5942c6e23.png",
+    "static/media/euc2.png": "/static/media/euc2.083a0b21f3b20cd04a4a.png",
     "index.html": "/index.html",
-    "main.a7312ac9.js.map": "/static/js/main.a7312ac9.js.map",
+    "main.a1357ab7.js.map": "/static/js/main.a1357ab7.js.map",
     "787.1f03ef2a.chunk.js.map": "/static/js/787.1f03ef2a.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.a7312ac9.js"
+    "static/js/main.a1357ab7.js"
   ]
 }
