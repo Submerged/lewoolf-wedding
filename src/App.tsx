@@ -8,7 +8,7 @@ import {
 } from "@chakra-ui/react"
 import {Footer} from "./Footer";
 import {theme} from './theme';
-import hero from './hero.jpg';
+import hero from './bdengagementmountainphoto.png';
 import euc from "./euc2.png";
 import { WeddingCountdown } from './WeddingCountdown';
 import { Header } from './Header';

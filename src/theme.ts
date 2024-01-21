@@ -2,7 +2,7 @@ import { extendTheme  } from "@chakra-ui/react";
 
 export const theme = extendTheme({
     colors: {
-        primary: '#263430',
+        primary: '#071C5B',
         primaryLight: '#7D8275',
         gray: '#CDCFD1',
         charcoal: '#181818',
@@ -40,7 +40,7 @@ export const theme = extendTheme({
                 fontFamily: 'Poiret One',
                 color: 'primary',
                 fontSize: [15, 15, 24],
-                bg: '#EFEFEF',
+                bg: '#FCDFE5',
             },
             input: {
                 border: '1px solid #999',
