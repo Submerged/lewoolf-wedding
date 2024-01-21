@@ -10,13 +10,13 @@ export const Schedule = () => {
                     <Text>
                         <Center textAlign='center'>
                             <br/>
-                            3:00 pm - The Wilds Resort - Ceremony
+                            2:30 pm - Marble Mountain Pond - Ceremony
                             <br/>
                             <br/>
                             - break -
                             <br/>
                             <br/>
-                            7:00 pm - The Wilds Resort - Dinner reception
+                            6:00 pm - Marble Mountain Knotty Pine Lounge - Dinner reception
                         </Center>
                     </Text>
                 </Box>
