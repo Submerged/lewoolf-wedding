@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/lewoolf-wedding/static/js/main.87e0ecac.js",
+    "main.js": "/lewoolf-wedding/static/js/main.f61e4f3b.js",
     "static/js/787.1f03ef2a.chunk.js": "/lewoolf-wedding/static/js/787.1f03ef2a.chunk.js",
     "static/media/euc2.png": "/lewoolf-wedding/static/media/euc2.a43f01e8279beb80c5a6.png",
     "index.html": "/lewoolf-wedding/index.html",
-    "main.87e0ecac.js.map": "/lewoolf-wedding/static/js/main.87e0ecac.js.map",
+    "main.f61e4f3b.js.map": "/lewoolf-wedding/static/js/main.f61e4f3b.js.map",
     "787.1f03ef2a.chunk.js.map": "/lewoolf-wedding/static/js/787.1f03ef2a.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.87e0ecac.js"
+    "static/js/main.f61e4f3b.js"
   ]
 }
