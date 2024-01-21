@@ -41,10 +41,10 @@ export const App = () => (
             <Center p={70}>
                 <Image maxHeight={10} objectFit='cover' src={euc} />
             </Center>
-            <Rsvp />
+            {/* <Rsvp />
             <Center p={70}>
                 <Image maxHeight={10} objectFit='cover' src={euc} />
-            </Center>
+            </Center> */}
             <Accommodation />
             <Footer/>
         </Box>

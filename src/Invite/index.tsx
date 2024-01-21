@@ -11,13 +11,13 @@ export const Invite = () => {
                     </Center>
                     <Stack spacing={10} mb={50} mt={10}>
                         <Text as='h1'>Bronwyn & Derek</Text>
-                        <Text as='p'>invite you to join them</Text>
-                        <Text as='p'>in their wedding celebrations</Text>
-                        <Text as='p'>Friday |  Oct 6 | 2023</Text>
-                        <Text as='p'>The Wilds Resort</Text>
-                        <Text as='p'>643 Salmonier Line, Route 90 South, Holyrood, NL, A0A 2R0</Text>
-                        <Text as='p'>with semi-formal reception to follow</Text>
-                        <Text as='p'>RSVP & additional details below </Text>
+                        <Text as='p'>together with their families</Text>
+                        <Text as='p'>are preparing for their wedding celebrations</Text>
+                        <Text as='p'>Saturday |  Aug 3 | 2024</Text>
+                        <Text as='p'>Marble Mountain</Text>
+                        <Text as='p'>2 Marble Dr, Steady Brook, NL A2H 2N2</Text>
+                        <Text as='p'>with reception to follow</Text>
+                        <Text as='p'>additional details below </Text>
                     </Stack>
                 </Box>
             </Center>
